@@ -1,3 +1,3 @@
-Sample repository for static, HTML 2-page assignment.
-2 linked HTML files include: index.html and boomer.html with 3 images.
-And 1 css file
+Activity 2 Repository: ISQA 3900
+This repository includes two pages, a main page (mainpage.html) and a linked second page (secondpage.html), as well as one CSS file. 
+I have included three pictures on the website (GradPicture.jpeg, ProfilePic.jpeg, STRATCOMM.jpeg)
